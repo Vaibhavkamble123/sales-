@@ -1,5 +1,5 @@
-# sales-The Sales Data Analysis System is designed to
-simplify the process of storing, managing, and analyzing sales-related
+# sales - The Sales Data Analysis System 
+is designed to simplify the process of storing, managing, and analyzing sales-related
 information in an efficient and user-friendly manner.
 This project is a desktop-based application developed using Python
 (Tkinter GUI) and SQLite Database. It provides an interactive interface
